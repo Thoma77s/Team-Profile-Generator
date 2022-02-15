@@ -36,6 +36,8 @@ This application is covered by the Academic license.
 ## Tests
  To test, install jest, and then you can run tests on each individual role, or all roles at once. 
 
+ https://watch.screencastify.com/v/VHbKOtI90BbGVedHTM2V
+
  
 ## Questions
  undefined<br />
